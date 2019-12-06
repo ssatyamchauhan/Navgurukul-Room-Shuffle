@@ -42,28 +42,26 @@ var shuffleDone = []
 
 module.exports = (endpoints) => {
     endpoints.get('/roomshuffle', (req, res) => {
-        while (listofDetailedStudent.length !== 0) {
+        while(listofDetailedStudent.length !== 0){
             var student = listofDetailedStudent[Math.floor(Math.random() * listofDetailedStudent.length)];
             var items = Object.keys(roomAndBed)
             var randomRoom = items[Math.floor(Math.random() * items.length)];
-            if (student.room != randomRoom && assignedStudent.includes(student.name) === false) {
-                assignedStudent.push(student.name);
+            if(Number(student.room) !== Number(randomRoom) && assignedStudent.includes(student.name) === false ){
                 var randomBed = roomAndBed[randomRoom][Math.floor(Math.random() * roomAndBed[randomRoom].length)];
-                if (assinedBed.includes(randomBed) == false) {
+                if(assinedBed.includes(randomBed) === false){
                     var heythere = {
-                        "name": student.name,
-                        "room": randomRoom,
-                        "bed": randomBed
-                    }
+                            "name": student.name,
+                            "room": randomRoom,
+                            "bed": randomBed
+                        }
+                    assignedStudent.push(student.name)
+                    assinedBed.push(randomBed)
                     shuffleDone.push(heythere)
                     var index = listofDetailedStudent.indexOf(student);
                     listofDetailedStudent.splice(index, 1)
+
                 }
-
             }
-            
-            fs.writeFileSync(__dirname + "/rooms.json", JSON.stringify(shuffleDone, null, 2));
-
         }
         console.log(shuffleDone)
             return res.json(shuffleDone)
