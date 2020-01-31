@@ -63,13 +63,15 @@ module.exports = (endpoints) => {
                 }
             }
         }
-        let newSet = new Set();
-        shuffleDone.map((i) => {
-            newSet.add(i.name)
-        })
-        if(newSet.size === shuffleDone.length){
-            console.log(true)
-        }
+        // looking for the duplicate elements 
+        // let newSet = new Set();
+        // shuffleDone.map((i) => {
+        //     newSet.add(i.name)
+        // })
+        // if(newSet.size === shuffleDone.length){
+        //     console.log(true)
+        // }
+        console.log(shuffleDone)
             return res.json(shuffleDone)
     })
 }
