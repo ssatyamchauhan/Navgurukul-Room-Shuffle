@@ -1,262 +1,272 @@
 [
-  {
-    "name": "Ajith",
-    "room": "1",
-    "bed": 3
-  },
-  {
-    "name": "Akhilesh",
-    "room": "8",
-    "bed": 29
-  },
-  {
-    "name": "Bijendra",
-    "room": "8",
-    "bed": 30
-  },
-  {
-    "name": "Nitish",
-    "room": "12",
-    "bed": 56
-  },
-  {
-    "name": "Amar pal",
-    "room": "10",
-    "bed": 40
-  },
-  {
-    "name": "Rahit",
-    "room": "8",
-    "bed": 28
-  },
-  {
-    "name": "Shubham",
-    "room": "7",
-    "bed": 23
-  },
-  {
-    "name": "Sanjay",
-    "room": "12",
-    "bed": 54
-  },
-  {
-    "name": "R L Yogessh",
-    "room": "12",
-    "bed": 51
-  },
-  {
-    "name": "Bilal",
-    "room": "9",
-    "bed": 34
-  },
-  {
-    "name": "Alpesh",
-    "room": "10",
-    "bed": 42
-  },
-  {
-    "name": "Deepak sh",
-    "room": "11",
-    "bed": 43
-  },
-  {
-    "name": "Bhaskar",
-    "room": "8",
-    "bed": 25
-  },
-  {
-    "name": "Shakti",
-    "room": "9",
-    "bed": 33
-  },
-  {
-    "name": "J Prakash",
-    "room": "11",
-    "bed": 44
-  },
-  {
-    "name": "Chandan sh",
-    "room": "11",
-    "bed": 45
-  },
-  {
-    "name": "S Vivek",
-    "room": "10",
-    "bed": 41
-  },
-  {
-    "name": "Prabhakar",
-    "room": "1",
-    "bed": 6
-  },
-  {
-    "name": "Anand",
-    "room": "6",
-    "bed": 11
-  },
-  {
-    "name": "Ramesh",
-    "room": "12",
-    "bed": 50
-  },
-  {
-    "name": "Santosh",
-    "room": "10",
-    "bed": 37
-  },
-  {
-    "name": "Aakash",
-    "room": "7",
-    "bed": 21
-  },
-  {
-    "name": "Bhavnesh",
-    "room": "12",
-    "bed": 53
-  },
-  {
-    "name": "Yousuf",
-    "room": "10",
-    "bed": 35
-  },
-  {
-    "name": "Shabid",
-    "room": "1",
-    "bed": 8
-  },
-  {
-    "name": "Sushant",
-    "room": "1",
-    "bed": 1
-  },
-  {
-    "name": "Prakash",
-    "room": "7",
-    "bed": 18
-  },
-  {
-    "name": "Dipesh",
-    "room": "11",
-    "bed": 47
-  },
-  {
-    "name": "Aman k",
-    "room": "9",
-    "bed": 32
-  },
-  {
-    "name": "Praveen",
-    "room": "9",
-    "bed": 31
-  },
-  {
-    "name": "Kirithiv",
-    "room": "12",
-    "bed": 55
-  },
-  {
-    "name": "Himanshu",
-    "room": "1",
-    "bed": 2
-  },
-  {
-    "name": "V nayak",
-    "room": "12",
-    "bed": 49
-  },
-  {
-    "name": "Riyaz",
-    "room": "6",
-    "bed": 10
-  },
-  {
-    "name": "Rakesh",
-    "room": "7",
-    "bed": 22
-  },
-  {
-    "name": "Tapas",
-    "room": "6",
-    "bed": 16
-  },
-  {
-    "name": "Abhishek",
-    "room": "7",
-    "bed": 24
-  },
-  {
-    "name": "Sonu",
-    "room": "10",
-    "bed": 38
-  },
-  {
-    "name": "Atul",
-    "room": "6",
-    "bed": 13
-  },
-  {
-    "name": "Umesh",
-    "room": "11",
-    "bed": 48
-  },
-  {
-    "name": "Somesh",
-    "room": "8",
-    "bed": 27
-  },
-  {
-    "name": "V modi",
-    "room": "6",
-    "bed": 14
-  },
-  {
-    "name": "Roshan",
-    "room": "6",
-    "bed": 12
-  },
-  {
-    "name": "Kartik",
-    "room": "1",
-    "bed": 4
-  },
-  {
-    "name": "Ankur",
-    "room": "11",
-    "bed": 46
-  },
-  {
-    "name": "Prince",
-    "room": "10",
-    "bed": 36
-  },
-  {
-    "name": "Kishore",
-    "room": "1",
-    "bed": 5
-  },
-  {
-    "name": "Hemant",
-    "room": "7",
-    "bed": 17
-  },
-  {
-    "name": "Tariq A",
-    "room": "6",
-    "bed": 15
-  },
-  {
-    "name": "Paramthaman",
-    "room": "12",
-    "bed": 52
-  },
-  {
-    "name": "Rohit",
-    "room": "8",
-    "bed": 26
-  },
-  {
-    "name": "Biju",
-    "room": "7",
-    "bed": 20
-  }
+
+    {
+        "name": "Sonu",
+        "room": "1",
+        "bed": 1
+    },
+    {
+        "name": "Vishal pandy",
+        "room": "1",
+        "bed": 2
+    },
+    {
+        "name": "Anand Babu",
+        "room": "1",
+        "bed": 3
+    },
+    {
+        "name": "Kirithiv",
+        "room": "1",
+        "bed": 4
+    },
+    {
+        "name": "Deepak",
+        "room": "1",
+        "bed": 5
+    },
+    {
+        "name": "Vishal Kumar",
+        "room": "1",
+        "bed": 6
+    },
+    {
+        "name": "Biju",
+        "room": "1",
+        "bed": 7
+    },
+    {
+        "name": "Roshan",
+        "room": "1",
+        "bed": 8
+    },
+
+    {
+        "name": "Nayak",
+        "room": "6",
+        "bed": 9
+    },
+    {
+        "name": "Himanshu",
+        "room": "6",
+        "bed": 10
+    },
+    {
+        "name": "Paramthamn",
+        "room": "6",
+        "bed": 11
+    },
+    {
+        "name": "Bilal",
+        "room": "6",
+        "bed": 13
+    },
+    {
+        "name": "Chandan",
+        "room": "6",
+        "bed": 16
+    },
+    {
+        "name": "Bijendra",
+        "room": "6",
+        "bed": 17
+    },
+    {
+        "name": "Sushant",
+        "room": "6",
+        "bed": 18
+    },
+
+    {
+        "name": "Kaushal Kumar Sahu",
+        "room": "7",
+        "bed": 19
+    },
+    {
+        "name": "Bhavnesh",
+        "room": "7",
+        "bed": 20
+    },
+    {
+        "name": "Akhilesh",
+        "room": "7",
+        "bed": 21
+    },
+    {
+        "name": "Prince",
+        "room": "7",
+        "bed": 22
+    },
+    {
+        "name": "Santosh",
+        "room": "7",
+        "bed": 23
+    },
+    {
+        "name": "Amar pal",
+        "room": "7",
+        "bed": 24
+    },
+    {
+        "name": "Somesh",
+        "room": "7",
+        "bed": 25
+    },
+    {
+        "name": "Atul Porwal",
+        "room": "7",
+        "bed": 26
+    },
+
+    {
+        "name": "Prabhakar",
+        "room": "8",
+        "bed": 27
+    },
+    {
+        "name": "Kartik",
+        "room": "8",
+        "bed": 28
+    },
+    {
+        "name": "Rahul",
+        "room": "8",
+        "bed": 29
+    },
+    {
+        "name": "Raju",
+        "room": "8",
+        "bed": 30
+    },
+    {
+        "name": "Abhishek",
+        "room": "8",
+        "bed": 31
+    },
+    {
+        "name": "Navid",
+        "room": "8",
+        "bed": 32
+    },
+
+    {
+        "name": "Teja",
+        "room": "9",
+        "bed": 33
+    },
+    {
+        "name": "Sanjay",
+        "room": "9",
+        "bed": 34
+    },
+    {
+        "name": "Yousuf",
+        "room": "9",
+        "bed": 35
+    },
+    {
+        "name": "Riyaz",
+        "room": "9",
+        "bed": 36
+    },
+
+    {
+        "name": "Rohit Yadav",
+        "room": "10",
+        "bed": 37
+    },
+    {
+        "name": "Ramesh",
+        "room": "10",
+        "bed": 38
+    },
+    {
+        "name": "Prakash",
+        "room": "10",
+        "bed": 39
+    },
+    {
+        "name": "Akash",
+        "room": "10",
+        "bed": 40
+    },
+    {
+        "name": "Peter",
+        "room": "10",
+        "bed": 41
+    },
+    {
+        "name": "Shabid Khan",
+        "room": "10",
+        "bed": 42
+    },
+    {
+        "name": "Rohit",
+        "room": "10",
+        "bed": 44
+    },
+
+
+    {
+        "name": "Tarique",
+        "room": "11",
+        "bed": 45
+    },
+    {
+        "name": "Bhaskar",
+        "room": "11",
+        "bed": 46
+    },
+    {
+        "name": "Vivek",
+        "room": "11",
+        "bed": 47
+    },
+    {
+        "name": "Tapas",
+        "room": "11",
+        "bed": 48
+    },
+    {
+        "name": "Mohit",
+        "room": "11",
+        "bed": 49
+    },
+
+
+    {
+        "name": "Shubham",
+        "room": "12",
+        "bed": 51
+    },
+    {
+        "name": "Aman",
+        "room": "12",
+        "bed": 54
+    },
+    {
+        "name": "Rahit",
+        "room": "12",
+        "bed": 55
+    },
+    {
+        "name": "Rakesh",
+        "room": "12",
+        "bed": 56
+    },
+    {
+        "name": "Ankur pandy",
+        "room": "12",
+        "bed": 57
+    },
+    {
+        "name": "Viresh",
+        "room": "12",
+        "bed": 58
+    },
+    {
+        "name": "Umesh",
+        "room": "12",
+        "bed": 59
+    }
 ]
